@@ -15,3 +15,18 @@ day05:  ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: OK | ex06: 
 day06: ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Nothing turned in
 
 day07 ex00: Does not compile | ex01: Does not compile | ex02: Does not compile | ex03: Nothing turned in | ex04: Nothing turned in | ex05: Nothing turned in | ex06: Nothing turned in | ex07: Nothing turned in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
