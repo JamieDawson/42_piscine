@@ -18,6 +18,8 @@ day07 ex00: Does not compile | ex01: Does not compile | ex02: Does not compile |
 
 day08: ex00: Nothing turned in | ex01: Nothing turned in | ex02: Nothing turned in | ex03: Nothing turned in | ex04: Nothing turned in | ex05: Nothing turned in | ex06: Nothing turned in
 
+day09: nothing turned in.
+
 
 
 
