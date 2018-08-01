@@ -20,6 +20,32 @@ day08: ex00: Nothing turned in | ex01: Nothing turned in | ex02: Nothing turned 
 
 day09: nothing turned in.
 
+day10:  ex00: OK | ex01: OK | ex02: Does not compile | ex03: OK | ex04: OK | ex05: OK | ex06: KO | ex07: Nothing turned in | ex08: Nothing turned in | ex09: Nothing turned in
+
+day11: ex00: Norme error | ex01: Nothing turned in | ex02: Nothing turned in | ex03: Nothing turned in | ex04: Nothing turned in | ex05: Nothing turned in | ex06: Nothing turned in | ex07: Nothing turned in | ex08: Nothing turned in | ex09: Nothing turned in | ex10: Nothing turned in | ex11: Nothing turned in | ex12: Nothing turned in | ex13: Nothing turned in | ex14: Nothing turned in | ex15: Nothing turned in | ex16: Nothing turned in | ex17: Nothing turned in
+
+day12: nothing turned in.
+
+day13: ex00: OK | ex01: OK | ex02: Norme error | ex03: Does not compile | ex04: Nothing turned in | ex05: Nothing turned in | ex06: Nothing turned in | ex07: Nothing turned in | ex08: Nothing turned in | ex09: Nothing turned in
+
+sastantua:  ex00: OK
+
+rush00:  passed 120/100
+
+rush01: passed 63/100. Code does not work. It's just an idea laid out.
+
+rush02: nothing turned in.
+
+match-n-match: ex00: OK | ex01: OK
+
+evalexpr: Nothing turned in.
+
+BSQ: basic_tests: Two parameters KO | functional_tests: Test 1 KO
+
+
+
+
+
 
 
 
