@@ -1,0 +1,1 @@
+cat /etc/passwd | egrep -v "(^#.*|^$)" | cut -d : -f 1 | awk 'NR%2==0 || NR==1' | rev | sort -r | awk 'NR >= ENVIRON["FT_LINE1"] && NR <= ENVIRON["FT_LINE2"]' | tr '\n' ',' | sed 's/,/, /g' | sed 's/, $/./'
