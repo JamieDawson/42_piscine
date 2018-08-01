@@ -1,0 +1,5 @@
+Credentials cache: API:30242
+        Principal: jadawson@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 23 18:04:39 2017  Oct 24 04:04:39 2017  krbtgt/42.US.ORG@42.US.ORG
